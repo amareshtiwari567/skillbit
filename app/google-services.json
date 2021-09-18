@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "173832163847",
+    "project_id": "skillbit-cea8d",
+    "storage_bucket": "skillbit-cea8d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:173832163847:android:86367f58196b31b12e90a2",
+        "android_client_info": {
+          "package_name": "io.app.skillbit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "173832163847-i74do5ohanrbd1qkd0i6bkocvhccmss8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVjVyB_WTomSzD-TSrYZSJQ516CKjL6P8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "173832163847-i74do5ohanrbd1qkd0i6bkocvhccmss8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
